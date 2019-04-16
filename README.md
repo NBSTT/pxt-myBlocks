@@ -1,6 +1,7 @@
 # pxt-myblocks
 
-
+## myblock ""
+指定した文字列を画面に表示します（アルファベットのみ）。
 
 ## TODO
 
@@ -15,7 +16,7 @@ Read more at https://makecode.microbit.org/packages/build-your-own
 
 ## License
 
-
+MIT
 
 ## Supported targets
 
